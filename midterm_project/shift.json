@@ -1,0 +1,24 @@
+[
+	{
+		"librarian":"Araf",
+		"day":"Sat-Mon-Wed",
+		"time":"9-2"
+	},
+
+	{
+		"librarian":"Jarif",
+		"day":"Sat-Mon-Wed",
+		"time":"2-5"
+	},
+
+	{
+		"librarian":"Ruhul",
+		"day":"Sun-Tues-Thurs",
+		"time":"9-2"
+	},
+{
+		"librarian":"Karim",
+		"day":"Sun-Tues-Thurs",
+		"time":"2-5"
+	}
+	]
